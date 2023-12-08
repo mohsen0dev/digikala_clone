@@ -1,16 +1,22 @@
 # digikala_clone
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## اپ فروشگاهی مشابه دی جی کالا
+## اتیت منجمنت گت ایکس
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 
+![Screenshot_1702058412](https://github.com/mohsen0dev/digikala_clone/assets/153233719/58cbf8c6-52d1-4df1-b263-56338dfd40a8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1702058921](https://github.com/mohsen0dev/digikala_clone/assets/153233719/f1c42ca2-831b-41dc-82a7-90d68a3897ab)
+
+![Screenshot_1702058981](https://github.com/mohsen0dev/digikala_clone/assets/153233719/2b239eee-4089-405f-b5b1-e335e076984c)
+
+![Screenshot_1702059064](https://github.com/mohsen0dev/digikala_clone/assets/153233719/cca33625-0cd3-4bfb-b355-8b31b7724bb7)
+
+![Screenshot_1702059118](https://github.com/mohsen0dev/digikala_clone/assets/153233719/e2205300-c1e1-4ba6-867f-86b7391592d6)
+
+![Screenshot_1702059144](https://github.com/mohsen0dev/digikala_clone/assets/153233719/35968268-71d7-4d78-b54e-079320043fdc)
