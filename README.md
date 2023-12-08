@@ -5,10 +5,11 @@ A Flutter project.
 ## Getting Started
 
 ## اپ فروشگاهی مشابه دی جی کالا
-## استیت منجمنت گت ایکس
+# استیت منجمنت گت ایکس
 
 
-- 
+
+
 ![Screenshot_1702058412](https://github.com/mohsen0dev/digikala_clone/assets/153233719/58cbf8c6-52d1-4df1-b263-56338dfd40a8)-----
 ![Screenshot_1702058921](https://github.com/mohsen0dev/digikala_clone/assets/153233719/f1c42ca2-831b-41dc-82a7-90d68a3897ab)
 
